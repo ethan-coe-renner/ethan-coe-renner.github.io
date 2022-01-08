@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Ethan Coe-Renner",
+    "label": "Computer Science Undergraduate",
+    "image": "https://avatars.githubusercontent.com/u/44591535?s=400&u=b5ad3acc0105cc3b8d978ac36578fcf77ebcf50d&v=4",
+    "email": "e_coerenner@u.pacific.edu",
+    "phone": "(626) 205-5834",
+    "summary": "Motivated Computer Science undergraduate with interests ranging from low level systems programming to high level data analysis programming. Currently seeking a summer internship in computing for the summer of 2022.",
+    "location": {
+      "postalCode": "91016",
+	"city": "Monrovia",
+	"countryCode": "US",
+	"region": "California"
+    },
+
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Ethan Coe-Renner",
+        "url": "https://www.linkedin.com/in/ethan-coe-renner-2629a5204"
+      },
+      {
+        "network": "GitHub",
+        "username": "ethan-coe-renner",
+        "url": "https://github.com/ethan-coe-renner"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "University of the Pacific",
+      "position": "GATC Tutor",
+      "url": "https://www.pacific.edu/university-libraries/services/student-academic-support-services-hub",
+      "startDate": "2021-10-01",
+      "summary": "Tutor peers in classes including: <b>Discrete Mathematics</b>, <b>Computing Theory</b>, and <b>Digital Design</b>"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of the Pacific",
+      "url": "https://www.pacific.edu",
+      "area": "Computer Science",
+      "studyType": "BS",
+      "startDate": "2020-09-01",
+      "endDate": "2024-05-17",
+      "score": "3.97",
+      "courses": [
+        "COMP 047 - Discrete Math for Comp Science",
+        "COMP 053 - Data Structures",
+        "COMP 055 - Application Development",
+        "ECPE 071 - Digital Design",
+        "MATH 037 - Intro Stat & Prob",
+        "COMP 147 - Computing Theory",
+        "COMP 157 - Design/Analaysis of Algorithms",
+        "ECON 053 - Introductory Microeconomics",
+        "ECPE 170 - Computer Systems & Networks"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Eagle Scout",
+      "date": "2019-06-01",
+      "awarder": "Boy Scouts of America",
+      "summary": "I earned my Eagle Scout as the culmination of 10 years in the scouting program. I served in many leadership positions during those years, managing service projects, planning events, and teaching younger scouts in these roles."
+    },
+    {
+      "title": "Regent's Scholarship",
+      "date": "2020-06-01",
+      "awarder": "University of the Pacific",
+      "summary": "Scholarship awarded by UOP for academic excellence."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Rust",
+        "C",
+        "Python",
+        "C++",
+        "Java",
+        "Bash",
+        "LaTeX",
+        "Emacs Lisp",
+        "R"
+      ]
+    },
+
+    {
+      "name": "Linux",
+      "level": "5 years",
+      "keywords": ["Debian", "Arch", "Nix"]
+    },
+
+    {
+      "name": "Git",
+      "level": "6 years",
+      "keywords": ["Both independent and collaborative projects"]
+    },
+
+    {
+      "name": "Text Editors/IDEs",
+      "keywords": ["Emacs", "Vim", "Eclipse", "PyCharm", "VS Code", "Atom"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Teeny Tiny Compiler",
+      "description": "A compiler for teeny tiny, a programming language I created, in part following a tutorial. Includes a lexer, parser, and emitter written entirely in Rust.",
+      "keywords": ["Rust"],
+      "url": "https://github.com/ethan-coe-renner/teeny-tiny-compiler"
+    },
+    {
+      "name": "Genetic Dots",
+      "description": "A genetic algorithm for pathfinding around obstacles. Generates a random population of dots on which a genetic algorithm is used to optimize their paths.",
+      "keywords": ["Python"],
+      "url": "https://github.com/ethan-coe-renner/geneticDots"
+    },
+    {
+      "name": "Rustbar (The Second One)",
+      "description": "A status bar written for use in the spectrwm window manager. Accesses linux system information to display network, battery, volume, etc.",
+      "keywords": ["Rust"],
+      "url": "https://github.com/ethan-coe-renner/rustbar-the-second-one"
+    },
+
+    {
+      "name": "Three Coloring",
+      "description": "A rust program to convert a three coloring problem (graph theory) into a satisfiability problem (SAT).",
+      "keywords": ["Rust"],
+      "url": "https://github.com/ethan-coe-renner/threecoloring"
+    }
+  ]
+}
