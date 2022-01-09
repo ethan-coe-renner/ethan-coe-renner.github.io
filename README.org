@@ -1,0 +1,27 @@
+* About Me
+
+Hi, I'm Ethan Coe-Renner. I'm a second year computer science student studying at University of the Pacific. My interests include low level systems programming, Linux, artificial intelligence, and the Rust programming language.
+
+* Projects
+
+** [[https://github.com/ethan-coe-renner/teeny-tiny-compiler][Teeny Tiny Compiler]]
+
+A compiler of teeny tiny written in rust over the summer of 2021. Initially following [[https://austinhenley.com/blog/teenytinycompiler1.html][this guide]] by Austin Henley, but with additions made by myself.
+
+** [[https://github.com/ethan-coe-renner/rustbar-the-second-one][Rustbar (the second one)]]
+
+A statusbar intended for use with the [[https://github.com/conformal/spectrwm][spectrwm]] window manager.
+
+** [[https://github.com/ethan-coe-renner/geneticDots][Genetic Dots]]
+
+A genetic algorithm for pathfinding around obstacles. Created around 2018 in python with pygame; very bad at pathfinding due to local optima, but a fun exploration of genetic algorithms.
+
+* Dotfiles
+
+My [[https://github.com/ethan-coe-renner/dotfiles][dotfiles]] repository for [[https://nixos.org][NixOS]], including configuration files for a number of programs which I use. I use [[https://chezmoi.io][chezmoi]] to manage these files.
+
+* Links
+
+[[https://ethan-coe-renner.github.io/resume.html][resume]]
+
+[[https://www.linkedin.com/in/ethan-coe-renner-2629a5204][LinkedIn]]
