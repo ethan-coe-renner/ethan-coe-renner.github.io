@@ -1,4 +1,5 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
+logo: /assets/photo.jpg
 title: Ethan Coe-Renner's homepage
 description: Homepage of Ethan Coe-Renner, a second year computer science undergraduate.
 
