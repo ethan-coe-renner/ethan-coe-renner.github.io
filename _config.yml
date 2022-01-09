@@ -1,3 +1,8 @@
 theme: jekyll-theme-hacker
 title: Ethan Coe-Renner's homepage
 description: Homepage of Ethan Coe-Renner, a second year computer science undergraduate.
+
+show_downloads: false
+
+github:
+  another_url: https://github.com/ethan-coe-renner
