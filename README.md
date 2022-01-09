@@ -12,10 +12,13 @@ A compiler of teeny tiny written in rust over the summer of 2021. Initially foll
 
 A statusbar intended for use with the [spectrwm](https://github.com/conformal/spectrwm) window manager.
 
+## [Genetic Dots](https://github.com/ethan-coe-renner/geneticDots)
 
-# [Dotfiles](https://github.com/ethan-coe-renner/dotfiles)
+A genetic algorithm for pathfinding around obstacles. Created around 2018 in python with pygame; very bad at pathfinding due to local optima, but a fun exploration of genetic algorithms.
 
-My dotfile repository for [NixOS](https://nixos.org), including configuration files for a number of programs which I use. I use [chezmoi](https://chezmoi.io) to manage these files.
+# Dotfiles
+
+My [dotfile](https://github.com/ethan-coe-renner/dotfiles) repository for [NixOS](https://nixos.org), including configuration files for a number of programs which I use. I use [chezmoi](https://chezmoi.io) to manage these files.
 
 # Links
 
