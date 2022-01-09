@@ -25,3 +25,5 @@ My [[https://github.com/ethan-coe-renner/dotfiles][dotfiles]] repository for [[h
 [[https://ethan-coe-renner.github.io/resume.html][resume]]
 
 [[https://www.linkedin.com/in/ethan-coe-renner-2629a5204][LinkedIn]]
+
+* this is in org mode
