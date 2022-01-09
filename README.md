@@ -9,7 +9,7 @@ programming language.
 
 ## [Teeny Tiny Compiler](https://github.com/ethan-coe-renner/teeny-tiny-compiler)
 
-A compiler of teeny tiny written in rust over the summer of 2021.
+A compiler for teeny tiny written in rust during the summer of 2021.
 Initially following [this
 guide](https://austinhenley.com/blog/teenytinycompiler1.html) by Austin
 Henley, but with additions made by myself.

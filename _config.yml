@@ -1,9 +1,6 @@
 theme: jekyll-theme-minimal
 logo: /assets/photo.jpg
-title: Ethan Coe-Renner's homepage
-description: Homepage of Ethan Coe-Renner, a second year computer science undergraduate.
+title: Ethan Coe-Renner
+description: Measure twice, cut once
 
 show_downloads: false
-
-github:
-  another_url: https://github.com/ethan-coe-renner
