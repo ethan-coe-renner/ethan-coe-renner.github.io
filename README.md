@@ -37,6 +37,6 @@ manage these files.
 
 # Links
 
-[resume](https://ethan-coe-renner.github.io/resume.html)
+[Résumé](https://ethan-coe-renner.github.io/resume.html)
 
 [LinkedIn](https://www.linkedin.com/in/ethan-coe-renner-2629a5204)
