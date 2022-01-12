@@ -7,6 +7,8 @@ programming language.
 
 # Projects
 
+Here are some projects which I enjoyed making.
+
 ## [Teeny Tiny Compiler](https://github.com/ethan-coe-renner/teeny-tiny-compiler)
 
 A compiler for teeny tiny written in rust during the summer of 2021.
@@ -22,8 +24,9 @@ A statusbar intended for use with the
 ## [Genetic Dots](https://github.com/ethan-coe-renner/geneticDots)
 
 A genetic algorithm for pathfinding around obstacles. Created around
-2018 in python with pygame; very bad at pathfinding due to local optima,
-but a fun exploration of genetic algorithms.
+2018 in python with pygame, it is very bad at pathfinding due to local
+optima (a notorious problem with genetic algorithms), but was a fun
+exploration of genetic algorithms.
 
 # Dotfiles
 
